@@ -14,7 +14,7 @@ Thumbs.db
 
 
 #FolderName/
-
+data/
 
 #FolderName/
 
@@ -31,7 +31,9 @@ Thumbs.db
 
 
 
+# Ignore config file:
 
+config.py
 
 
 
