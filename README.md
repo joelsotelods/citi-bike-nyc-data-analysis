@@ -229,4 +229,28 @@ for file in files:
 
 ---
 
-## Building Report with Tableau
+## Building Report with Tableau (Period: July, 2013 to March, 2019 ) (70 month analysis)
+
+### Big Picture.. a map of NYC with all the stations by starting point:
+
+![Citi Bike](images/04_Starting_Points_map.png)
+
+### Summary: How many trips have been recorded total during the chosen period? 
+
+A total of 74M trips.
+
+![Citi Bike](images/01_Summary.png)
+
+As we can see.. the Trips have been increasing year by year.. getting in 2018 three times more rides than 2013.
+
+### Top 10 stations in the city for starting a journey? 
+
+![Citi Bike](images/02_Top_10_starting_stations.png)
+
+Without doubt these stations are main points for the average Newyorker.. 
+
+1. Pershing Square North: The closest point to the Grand Central Terminal and the Chrysler Bulding.
+
+2. E 17 St & Broadway: Union Square.. 
+
+4. 8 ave & w 31 st: Penn Station, The New York Liberty.
